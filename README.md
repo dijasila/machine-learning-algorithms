@@ -22,6 +22,9 @@ This repository contains implementations of popular machine learning algorithms 
 - **Principal Component Analysis (PCA)**
 - **Neural Networks (Deep Learning)**
 
+
+## Example of linear regression on a large data set 
+![regression](https://github.com/dijasila/machine-learning-algorithms/blob/main/image/regression_results.png)
 ## Installation
 
 Install the required libraries using:
