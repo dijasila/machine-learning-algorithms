@@ -5,8 +5,8 @@ Copy code
 This repository contains implementations of popular machine learning algorithms optimized for large datasets. It supports high-performance computation with frameworks like **Dask** and **TensorFlow**.
 
 ## Structure
-![Structure of Repository](https://github.com/dijasila/machine-learning-algorithms/blob/main/image/resp_struct.PNG)
-
+![structure of repository](https://github.com/dijasila/machine-learning-algorithms/blob/main/image/resp_struct.PNG)
+>>>>>>> 758466cee9f40f3a1f95447fe637961bd08c609b
 - **data/**: Contains the dataset.
 - **src/**: Machine learning algorithm implementations.
 - **notebooks/**: Jupyter notebooks for data exploration and model running.
@@ -51,6 +51,9 @@ A dimensionality reduction technique that transforms data into a set of orthogon
 A deep learning model with multiple layers to learn complex representations from data.
 ![Neural Network Results](https://github.com/dijasila/machine-learning-algorithms/blob/main/image/neural_network_results.png)
 
+
+## Example of linear regression on a large data set 
+![regression](https://github.com/dijasila/machine-learning-algorithms/blob/main/image/regression_results.png)
 ## Installation
 
 Install the required libraries using the following command:
