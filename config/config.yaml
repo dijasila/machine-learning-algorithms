@@ -1,0 +1,24 @@
+linear_regression:
+  fit_intercept: True
+  normalize: True
+
+logistic_regression:
+  max_iter: 1000
+  penalty: 'l2'
+
+decision_tree:
+  max_depth: 10
+  criterion: 'gini'
+
+random_forest:
+  n_estimators: 100
+  max_depth: 20
+  random_state: 42
+
+svm:
+  kernel: 'linear'
+  C: 1.0
+
+neural_network:
+  epochs: 20
+  batch_size: 32
