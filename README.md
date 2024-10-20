@@ -3,7 +3,7 @@
 This repository contains implementations of popular machine learning algorithms optimized for large datasets. It supports high-performance computation with frameworks like **Dask** and **TensorFlow**.
 
 ## Structure
-![structure of repository](https://github.com/dijasila/machine-learning-algorithms/blob/main/images/resp_struct.PNG)
+![structure of repository](https://github.com/dijasila/machine-learning-algorithms/blob/main/image/resp_struct.PNG)
 - **data/**: Contains the dataset.
 - **src/**: Machine learning algorithm implementations.
 - **notebooks/**: Jupyter notebooks for data exploration and model running.
